@@ -1,0 +1,2172 @@
+{
+    "AALR": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "ABCB": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "ABEV": {
+        "segmento": "Cervejas e Refrigerantes",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Bebidas"
+    },
+    "AERI": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "AESB": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "AESL": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "AESO": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "AFLT": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "AGRO": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "AGRU": {
+        "segmento": "Servi\u00e7os de Apoio e Armazenagem",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "AGXY": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "AHEB": {
+        "segmento": "Produ\u00e7\u00e3o de Eventos e Shows",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Viagens e Lazer"
+    },
+    "ALGT": {
+        "segmento": "Telecomunica\u00e7\u00f5es",
+        "setor": "Comunica\u00e7\u00f5es",
+        "subsetor": "Telecomunica\u00e7\u00f5es"
+    },
+    "ALLD": {
+        "segmento": "Eletrodom\u00e9sticos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "ALOS": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "ALPA": {
+        "segmento": "Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "ALPK": {
+        "segmento": "Servi\u00e7os Diversos",
+        "setor": "Bens Industriais",
+        "subsetor": "Servi\u00e7os Diversos"
+    },
+    "ALUP": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "AMAR": {
+        "segmento": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "AMBP": {
+        "segmento": "\u00c1gua e Saneamento",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "\u00c1gua e Saneamento"
+    },
+    "AMER": {
+        "segmento": "Produtos Diversos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "ANHB": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "ANIM": {
+        "segmento": "Servi\u00e7os Educacionais",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "APER": {
+        "segmento": "Corretoras de Seguros e Resseguros",
+        "setor": "Financeiro",
+        "subsetor": "Previd\u00eancia e Seguros"
+    },
+    "APTI": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "ARML": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "ARZZ": {
+        "segmento": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "ASAI": {
+        "segmento": "Alimentos",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "ASCP": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "ATMP": {
+        "segmento": "Servi\u00e7os Diversos",
+        "setor": "Bens Industriais",
+        "subsetor": "Servi\u00e7os Diversos"
+    },
+    "ATOM": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "AURA": {
+        "segmento": "Minerais Met\u00e1licos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Minera\u00e7\u00e3o"
+    },
+    "AURE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "AVLL": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "AZEV": {
+        "segmento": "Constru\u00e7\u00e3o Pesada",
+        "setor": "Bens Industriais",
+        "subsetor": "Constru\u00e7\u00e3o e Engenharia"
+    },
+    "AZUL": {
+        "segmento": "Linhas A\u00e9reas de Passageiros",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "B3SA": {
+        "segmento": "Servi\u00e7os Financeiros Diversos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "BAHI": {
+        "segmento": "Servi\u00e7os Educacionais",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "BALM": {
+        "segmento": "Equipamentos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Equipamentos"
+    },
+    "BAUH": {
+        "segmento": "Carnes e Derivados",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "BAZA": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BBAS": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BBDC": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BBML": {
+        "segmento": "Servi\u00e7os Diversos",
+        "setor": "Bens Industriais",
+        "subsetor": "Servi\u00e7os Diversos"
+    },
+    "BBSE": {
+        "segmento": "Seguradoras",
+        "setor": "Financeiro",
+        "subsetor": "Previd\u00eancia e Seguros"
+    },
+    "BDLL": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "BDLS": {
+        "segmento": "Soc. Arrendamento Mercantil",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BEEF": {
+        "segmento": "Carnes e Derivados",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "BEES": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BETP": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "BFRE": {
+        "segmento": "Gest\u00e3o de Recursos e Investimentos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "BGIP": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BHIA": {
+        "segmento": "Eletrodom\u00e9sticos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "BIOM": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Medicamentos e Outros Produtos"
+    },
+    "BLAU": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "BMEB": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BMGB": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BMIN": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BMKS": {
+        "segmento": "Bicicletas",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Viagens e Lazer"
+    },
+    "BMOB": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "BNBR": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BNDP": {
+        "segmento": "Gest\u00e3o de Recursos e Investimentos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "BOBR": {
+        "segmento": "Produtos de Limpeza",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Produtos de Cuidado Pessoal e de Limpeza"
+    },
+    "BPAC": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BPAN": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BPAR": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BRAP": {
+        "segmento": "Minerais Met\u00e1licos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Minera\u00e7\u00e3o"
+    },
+    "BRBI": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BRFS": {
+        "segmento": "Carnes e Derivados",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "BRGE": {
+        "segmento": "Seguradoras",
+        "setor": "Financeiro",
+        "subsetor": "Previd\u00eancia e Seguros"
+    },
+    "BRIT": {
+        "segmento": "Telecomunica\u00e7\u00f5es",
+        "setor": "Comunica\u00e7\u00f5es",
+        "subsetor": "Telecomunica\u00e7\u00f5es"
+    },
+    "BRIV": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BRKM": {
+        "segmento": "Petroqu\u00edmicos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Qu\u00edmicos"
+    },
+    "BRQB": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "BRSR": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BSCS": {
+        "segmento": "Securitizadoras de Receb\u00edveis",
+        "setor": "Financeiro",
+        "subsetor": "Securitizadoras de Receb\u00edveis"
+    },
+    "BSLI": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "BZRS": {
+        "segmento": "Securitizadoras de Receb\u00edveis",
+        "setor": "Financeiro",
+        "subsetor": "Securitizadoras de Receb\u00edveis"
+    },
+    "CABI": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "CALI": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "CAMB": {
+        "segmento": "Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "CAML": {
+        "segmento": "Alimentos Diversos",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "CASH": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "CASN": {
+        "segmento": "\u00c1gua e Saneamento",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "\u00c1gua e Saneamento"
+    },
+    "CATA": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "CBAV": {
+        "segmento": "Minerais Met\u00e1licos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Minera\u00e7\u00e3o"
+    },
+    "CBEE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CCRO": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "CEAB": {
+        "segmento": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "CEBR": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CEDO": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "CEEB": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CEED": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CEGR": {
+        "segmento": "G\u00e1s",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "G\u00e1s"
+    },
+    "CGAS": {
+        "segmento": "G\u00e1s",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "G\u00e1s"
+    },
+    "CGRA": {
+        "segmento": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "CIEL": {
+        "segmento": "Servi\u00e7os Financeiros Diversos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "CLSA": {
+        "segmento": "Servi\u00e7os Financeiros Diversos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "CLSC": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CMIG": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CMIN": {
+        "segmento": "Minerais Met\u00e1licos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Minera\u00e7\u00e3o"
+    },
+    "CMSA": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "COCE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "COGN": {
+        "segmento": "Servi\u00e7os Educacionais",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "COLN": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "COMR": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CPFE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CPFG": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CPFP": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CPLE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CPRE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CPTE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CRBD": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "CRFB": {
+        "segmento": "Alimentos",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "CRIV": {
+        "segmento": "Soc. Cr\u00e9dito e Financiamento",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "CRPG": {
+        "segmento": "Qu\u00edmicos Diversos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Qu\u00edmicos"
+    },
+    "CRTE": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "CSAN": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "CSED": {
+        "segmento": "Servi\u00e7os Educacionais",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "CSMG": {
+        "segmento": "\u00c1gua e Saneamento",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "\u00c1gua e Saneamento"
+    },
+    "CSNA": {
+        "segmento": "Siderurgia",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Siderurgia e Metalurgia"
+    },
+    "CSRN": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "CSUD": {
+        "segmento": "Servi\u00e7os Financeiros Diversos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "CTBA": {
+        "segmento": "Outros T\u00edtulos",
+        "setor": "Financeiro",
+        "subsetor": "Outros T\u00edtulos"
+    },
+    "CTCA": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "CTKA": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "CTNM": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "CTSA": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "CURY": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "CVCB": {
+        "segmento": "Viagens e Turismo",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Viagens e Lazer"
+    },
+    "CXSE": {
+        "segmento": "Seguradoras",
+        "setor": "Financeiro",
+        "subsetor": "Previd\u00eancia e Seguros"
+    },
+    "CYRE": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "DASA": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "DBEN": {
+        "segmento": "Soc. Arrendamento Mercantil",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "DESK": {
+        "segmento": "Telecomunica\u00e7\u00f5es",
+        "setor": "Comunica\u00e7\u00f5es",
+        "subsetor": "Telecomunica\u00e7\u00f5es"
+    },
+    "DEXP": {
+        "segmento": "Petroqu\u00edmicos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Qu\u00edmicos"
+    },
+    "DIRR": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "DMFN": {
+        "segmento": "Soc. Cr\u00e9dito e Financiamento",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "DMVF": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "DOHL": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "DOTZ": {
+        "segmento": "Programas de Fideliza\u00e7\u00e3o",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "DTCY": {
+        "segmento": "Servi\u00e7os Diversos",
+        "setor": "Bens Industriais",
+        "subsetor": "Servi\u00e7os Diversos"
+    },
+    "DXCO": {
+        "segmento": "Madeira",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Madeira e Papel"
+    },
+    "EALT": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "EBEN": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "ECOR": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "ECOV": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "EFXB": {
+        "segmento": "Servi\u00e7os Financeiros Diversos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "EGGY": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "EGIE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "EKTR": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "ELET": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "ELMD": {
+        "segmento": "Publicidade e Propaganda",
+        "setor": "Comunica\u00e7\u00f5es",
+        "subsetor": "M\u00eddia"
+    },
+    "EMAE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "EMBR": {
+        "segmento": "Material Aeron\u00e1utico e de Defesa",
+        "setor": "Bens Industriais",
+        "subsetor": "Material de Transporte"
+    },
+    "ENAT": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "ENER": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "ENEV": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "ENGI": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "ENJU": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "ENMT": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "EPAR": {
+        "segmento": "Material de Transporte",
+        "setor": "Bens Industriais",
+        "subsetor": "Com\u00e9rcio"
+    },
+    "EQMA": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "EQPA": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "EQTL": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "ESCE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "ESPA": {
+        "segmento": "Produtos Diversos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "ESTR": {
+        "segmento": "Brinquedos e Jogos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Viagens e Lazer"
+    },
+    "ETER": {
+        "segmento": "Produtos para Constru\u00e7\u00e3o",
+        "setor": "Bens Industriais",
+        "subsetor": "Constru\u00e7\u00e3o e Engenharia"
+    },
+    "EUCA": {
+        "segmento": "Madeira",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Madeira e Papel"
+    },
+    "EUFA": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "EVEN": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "EVTC": {
+        "segmento": "Servi\u00e7os Financeiros Diversos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "EXCO": {
+        "segmento": "Alimentos",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "EZTC": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "FESA": {
+        "segmento": "Siderurgia",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Siderurgia e Metalurgia"
+    },
+    "FGEN": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "FHER": {
+        "segmento": "Fertilizantes e Defensivos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Qu\u00edmicos"
+    },
+    "FIEI": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "FIGE": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "FIQE": {
+        "segmento": "Telecomunica\u00e7\u00f5es",
+        "setor": "Comunica\u00e7\u00f5es",
+        "subsetor": "Telecomunica\u00e7\u00f5es"
+    },
+    "FLRY": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "FRAS": {
+        "segmento": "Material Rodovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Material de Transporte"
+    },
+    "FRIO": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "FRRN": {
+        "segmento": "Transporte Ferrovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "FRTA": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "G2DI": {
+        "segmento": "Gest\u00e3o de Recursos e Investimentos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "GASC": {
+        "segmento": "Transporte Ferrovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "GEPA": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "GFSA": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "GGBR": {
+        "segmento": "Siderurgia",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Siderurgia e Metalurgia"
+    },
+    "GGPS": {
+        "segmento": "Servi\u00e7os Diversos",
+        "setor": "Bens Industriais",
+        "subsetor": "Servi\u00e7os Diversos"
+    },
+    "GMAT": {
+        "segmento": "Alimentos",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "GOAU": {
+        "segmento": "Siderurgia",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Siderurgia e Metalurgia"
+    },
+    "GOLL": {
+        "segmento": "Linhas A\u00e9reas de Passageiros",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "GPAR": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "GPIV": {
+        "segmento": "Gest\u00e3o de Recursos e Investimentos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "GRAO": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "GRND": {
+        "segmento": "Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "GSHP": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "GUAR": {
+        "segmento": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "HAGA": {
+        "segmento": "Produtos para Constru\u00e7\u00e3o",
+        "setor": "Bens Industriais",
+        "subsetor": "Constru\u00e7\u00e3o e Engenharia"
+    },
+    "HAPV": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "HBOR": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "HBRE": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "HBSA": {
+        "segmento": "Transporte Hidrovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "HBTS": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "HETA": {
+        "segmento": "Utens\u00edlios Dom\u00e9sticos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Utilidades Dom\u00e9sticas"
+    },
+    "HMOB": {
+        "segmento": "Servi\u00e7os de Apoio e Armazenagem",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "HOOT": {
+        "segmento": "Hotelaria",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Hoteis e Restaurantes"
+    },
+    "HYPE": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "IFCM": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "IGSN": {
+        "segmento": "\u00c1gua e Saneamento",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "\u00c1gua e Saneamento"
+    },
+    "IGTI": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "INBR": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "INEP": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "INNC": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "INTB": {
+        "segmento": "Computadores e Equipamentos",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Computadores e Equipamentos"
+    },
+    "IRBR": {
+        "segmento": "Resseguradoras",
+        "setor": "Financeiro",
+        "subsetor": "Previd\u00eancia e Seguros"
+    },
+    "ITSA": {
+        "segmento": "Holdings Diversificadas",
+        "setor": "Financeiro",
+        "subsetor": "Holdings Diversificadas"
+    },
+    "ITUB": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "IVPR": {
+        "segmento": "Servi\u00e7os de Apoio e Armazenagem",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "JALL": {
+        "segmento": "A\u00e7ucar e Alcool",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "JBSS": {
+        "segmento": "Carnes e Derivados",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "JFEN": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "JHSF": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "JOPA": {
+        "segmento": "Alimentos Diversos",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "JSLG": {
+        "segmento": "Transporte Rodovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "KEPL": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "KLAS": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "KLBN": {
+        "segmento": "Papel e Celulose",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Madeira e Papel"
+    },
+    "KRSA": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "LAND": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "LAVV": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "LEVE": {
+        "segmento": "Autom\u00f3veis e Motocicletas",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Autom\u00f3veis e Motocicletas"
+    },
+    "LIGH": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "LIGT": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "LIPR": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "LJQQ": {
+        "segmento": "Produtos Diversos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "LLBI": {
+        "segmento": "Produtos Diversos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "LMED": {
+        "segmento": "Equipamentos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Equipamentos"
+    },
+    "LOGG": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "LOGN": {
+        "segmento": "Transporte Hidrovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "LPSB": {
+        "segmento": "Intermedia\u00e7\u00e3o Imobili\u00e1ria",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "LREN": {
+        "segmento": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "LTEL": {
+        "segmento": "Minerais Met\u00e1licos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Minera\u00e7\u00e3o"
+    },
+    "LTLA": {
+        "segmento": "Minerais Met\u00e1licos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Minera\u00e7\u00e3o"
+    },
+    "LUPA": {
+        "segmento": "Equipamentos e Servi\u00e7os",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "LUXM": {
+        "segmento": "Transporte Hidrovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "LVTC": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "LWSA": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "MAPT": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "MATD": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "MBLY": {
+        "segmento": "M\u00f3veis",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Utilidades Dom\u00e9sticas"
+    },
+    "MCRJ": {
+        "segmento": "Outros T\u00edtulos",
+        "setor": "Financeiro",
+        "subsetor": "Outros T\u00edtulos"
+    },
+    "MDIA": {
+        "segmento": "Alimentos Diversos",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "MDNE": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "MEAL": {
+        "segmento": "Restaurante e Similares",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Hoteis e Restaurantes"
+    },
+    "MELK": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "MERC": {
+        "segmento": "Soc. Cr\u00e9dito e Financiamento",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "MGEL": {
+        "segmento": "Artefatos de Ferro e A\u00e7o",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Siderurgia e Metalurgia"
+    },
+    "MGLU": {
+        "segmento": "Eletrodom\u00e9sticos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "MILS": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "MLAS": {
+        "segmento": "Computadores e Equipamentos",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Computadores e Equipamentos"
+    },
+    "MMAQ": {
+        "segmento": "Material de Transporte",
+        "setor": "Bens Industriais",
+        "subsetor": "Com\u00e9rcio"
+    },
+    "MNDL": {
+        "segmento": "Acess\u00f3rios",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "MNPR": {
+        "segmento": "Carnes e Derivados",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "MNZC": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "MOAR": {
+        "segmento": "Holdings Diversificadas",
+        "setor": "Financeiro",
+        "subsetor": "Holdings Diversificadas"
+    },
+    "MOVI": {
+        "segmento": "Aluguel de carros",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "MRFG": {
+        "segmento": "Carnes e Derivados",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "MRSA": {
+        "segmento": "Transporte Ferrovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "MRVE": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "MSPA": {
+        "segmento": "Papel e Celulose",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Madeira e Papel"
+    },
+    "MSRO": {
+        "segmento": "Aluguel de carros",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "MTRE": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "MTSA": {
+        "segmento": "M\u00e1q. e Equip. Constru\u00e7\u00e3o e Agr\u00edcolas",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "MULT": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "MWET": {
+        "segmento": "Material Rodovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Material de Transporte"
+    },
+    "MYPK": {
+        "segmento": "Autom\u00f3veis e Motocicletas",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Autom\u00f3veis e Motocicletas"
+    },
+    "NEMO": {
+        "segmento": "Papel e Celulose",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Madeira e Papel"
+    },
+    "NEOE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "NEXP": {
+        "segmento": "Intermedia\u00e7\u00e3o Imobili\u00e1ria",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "NGRD": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "NINJ": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "NORD": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "NRTQ": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Medicamentos e Outros Produtos"
+    },
+    "NTCO": {
+        "segmento": "Produtos de Cuidado Pessoal",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Produtos de Cuidado Pessoal e de Limpeza"
+    },
+    "NUTR": {
+        "segmento": "Fertilizantes e Defensivos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Qu\u00edmicos"
+    },
+    "ODER": {
+        "segmento": "Alimentos Diversos",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "ODPV": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "OFSA": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Medicamentos e Outros Produtos"
+    },
+    "OIBR": {
+        "segmento": "Telecomunica\u00e7\u00f5es",
+        "setor": "Comunica\u00e7\u00f5es",
+        "subsetor": "Telecomunica\u00e7\u00f5es"
+    },
+    "ONCO": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "OPCT": {
+        "segmento": "Equipamentos e Servi\u00e7os",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "OPGM": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "OPSE": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "OPTS": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "ORVR": {
+        "segmento": "\u00c1gua e Saneamento",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "\u00c1gua e Saneamento"
+    },
+    "OSXB": {
+        "segmento": "Equipamentos e Servi\u00e7os",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "PALF": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "PASS": {
+        "segmento": "G\u00e1s",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "G\u00e1s"
+    },
+    "PATI": {
+        "segmento": "Artefatos de Ferro e A\u00e7o",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Siderurgia e Metalurgia"
+    },
+    "PCAR": {
+        "segmento": "Alimentos",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "PDGR": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "PDGS": {
+        "segmento": "Securitizadoras de Receb\u00edveis",
+        "setor": "Financeiro",
+        "subsetor": "Securitizadoras de Receb\u00edveis"
+    },
+    "PDTC": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "PEAB": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "PETR": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "PETZ": {
+        "segmento": "Produtos Diversos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "PFRM": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "PGMN": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "PINE": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "PLAS": {
+        "segmento": "Autom\u00f3veis e Motocicletas",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Autom\u00f3veis e Motocicletas"
+    },
+    "PLPL": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "PMAM": {
+        "segmento": "Artefatos de Cobre",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Siderurgia e Metalurgia"
+    },
+    "PMSP": {
+        "segmento": "Outros T\u00edtulos",
+        "setor": "Financeiro",
+        "subsetor": "Outros T\u00edtulos"
+    },
+    "PNVL": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "POMO": {
+        "segmento": "Material Rodovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Material de Transporte"
+    },
+    "PORT": {
+        "segmento": "Servi\u00e7os de Apoio e Armazenagem",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "POSI": {
+        "segmento": "Computadores e Equipamentos",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Computadores e Equipamentos"
+    },
+    "PPAR": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "PPLA": {
+        "segmento": "Gest\u00e3o de Recursos e Investimentos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "PRIO": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "PRMN": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "PRNR": {
+        "segmento": "Servi\u00e7os Diversos",
+        "setor": "Bens Industriais",
+        "subsetor": "Servi\u00e7os Diversos"
+    },
+    "PRPT": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "PSSA": {
+        "segmento": "Seguradoras",
+        "setor": "Financeiro",
+        "subsetor": "Previd\u00eancia e Seguros"
+    },
+    "PSVM": {
+        "segmento": "Servi\u00e7os de Apoio e Armazenagem",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "PTBL": {
+        "segmento": "Produtos para Constru\u00e7\u00e3o",
+        "setor": "Bens Industriais",
+        "subsetor": "Constru\u00e7\u00e3o e Engenharia"
+    },
+    "PTCA": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "PTNT": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "QUAL": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "QUSW": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "QVQP": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "RADL": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "RAIL": {
+        "segmento": "Transporte Ferrovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "RAIZ": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "RANI": {
+        "segmento": "Embalagens",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Embalagens"
+    },
+    "RAPT": {
+        "segmento": "Material Rodovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Material de Transporte"
+    },
+    "RBNS": {
+        "segmento": "Material de Transporte",
+        "setor": "Bens Industriais",
+        "subsetor": "Com\u00e9rcio"
+    },
+    "RBRA": {
+        "segmento": "Securitizadoras de Receb\u00edveis",
+        "setor": "Financeiro",
+        "subsetor": "Securitizadoras de Receb\u00edveis"
+    },
+    "RCSL": {
+        "segmento": "Material Rodovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Material de Transporte"
+    },
+    "RDNI": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "RDOR": {
+        "segmento": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Servi\u00e7os M\u00e9dico - Hospitalares, An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "RDVT": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "RECV": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "REDE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "RENT": {
+        "segmento": "Aluguel de carros",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "RESA": {
+        "segmento": "A\u00e7ucar e Alcool",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "RNEW": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "ROMI": {
+        "segmento": "M\u00e1q. e Equip. Industriais",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "RPAD": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "RPMG": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "RPTA": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "RRRP": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "RSID": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "RSUL": {
+        "segmento": "Material Rodovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Material de Transporte"
+    },
+    "SAEN": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "SAIP": {
+        "segmento": "Servi\u00e7os de Apoio e Armazenagem",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "SANB": {
+        "segmento": "Bancos",
+        "setor": "Financeiro",
+        "subsetor": "Intermedi\u00e1rios Financeiros"
+    },
+    "SAPR": {
+        "segmento": "\u00c1gua e Saneamento",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "\u00c1gua e Saneamento"
+    },
+    "SBFG": {
+        "segmento": "Produtos Diversos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "SBSP": {
+        "segmento": "\u00c1gua e Saneamento",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "\u00c1gua e Saneamento"
+    },
+    "SCAR": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "SEER": {
+        "segmento": "Servi\u00e7os Educacionais",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "SEQL": {
+        "segmento": "Servi\u00e7os Diversos",
+        "setor": "Bens Industriais",
+        "subsetor": "Servi\u00e7os Diversos"
+    },
+    "SGPS": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "SHOW": {
+        "segmento": "Produ\u00e7\u00e3o de Eventos e Shows",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Viagens e Lazer"
+    },
+    "SHUL": {
+        "segmento": "Motores, Compressores e Outros",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "SIMH": {
+        "segmento": "Holdings Diversificadas",
+        "setor": "Financeiro",
+        "subsetor": "Holdings Diversificadas"
+    },
+    "SLCE": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "SMFT": {
+        "segmento": "Atividades Esportivas",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Viagens e Lazer"
+    },
+    "SMTO": {
+        "segmento": "A\u00e7ucar e Alcool",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Alimentos Processados"
+    },
+    "SNST": {
+        "segmento": "\u00c1gua e Saneamento",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "\u00c1gua e Saneamento"
+    },
+    "SNSY": {
+        "segmento": "Materiais Diversos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Materiais Diversos"
+    },
+    "SOJA": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "SOMA": {
+        "segmento": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "SOND": {
+        "segmento": "Engenharia Consultiva",
+        "setor": "Bens Industriais",
+        "subsetor": "Constru\u00e7\u00e3o e Engenharia"
+    },
+    "SRNA": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "STBP": {
+        "segmento": "Servi\u00e7os de Apoio e Armazenagem",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "STEN": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "STKF": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "STOC": {
+        "segmento": "Servi\u00e7os Financeiros Diversos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "SUZB": {
+        "segmento": "Papel e Celulose",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Madeira e Papel"
+    },
+    "SYNE": {
+        "segmento": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "setor": "Financeiro",
+        "subsetor": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "TAEE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "TASA": {
+        "segmento": "Armas e Muni\u00e7\u00f5es",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "TCSA": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "TECN": {
+        "segmento": "Acess\u00f3rios",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "TEGA": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "TEKA": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "TELB": {
+        "segmento": "Telecomunica\u00e7\u00f5es",
+        "setor": "Comunica\u00e7\u00f5es",
+        "subsetor": "Telecomunica\u00e7\u00f5es"
+    },
+    "TEND": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "TEPE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "TFCO": {
+        "segmento": "Vestu\u00e1rio",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "TGMA": {
+        "segmento": "Transporte Rodovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "TIMS": {
+        "segmento": "Telecomunica\u00e7\u00f5es",
+        "setor": "Comunica\u00e7\u00f5es",
+        "subsetor": "Telecomunica\u00e7\u00f5es"
+    },
+    "TKNO": {
+        "segmento": "Artefatos de Ferro e A\u00e7o",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Siderurgia e Metalurgia"
+    },
+    "TMPE": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "TOTS": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "TPIS": {
+        "segmento": "Explora\u00e7\u00e3o de Rodovias",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "TRAD": {
+        "segmento": "Programas e Servi\u00e7os",
+        "setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "subsetor": "Programas e Servi\u00e7os"
+    },
+    "TRIS": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "TRPL": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "TTEN": {
+        "segmento": "Agricultura",
+        "setor": "Consumo n\u00e3o C\u00edclico",
+        "subsetor": "Agropecu\u00e1ria"
+    },
+    "TUPY": {
+        "segmento": "Material Rodovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Material de Transporte"
+    },
+    "TXRX": {
+        "segmento": "Fios e Tecidos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "UCAS": {
+        "segmento": "M\u00f3veis",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Utilidades Dom\u00e9sticas"
+    },
+    "UGPA": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "UNIP": {
+        "segmento": "Qu\u00edmicos Diversos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Qu\u00edmicos"
+    },
+    "UPKP": {
+        "segmento": "Energia El\u00e9trica",
+        "setor": "Utilidade P\u00fablica",
+        "subsetor": "Energia El\u00e9trica"
+    },
+    "USIM": {
+        "segmento": "Siderurgia",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Siderurgia e Metalurgia"
+    },
+    "VALE": {
+        "segmento": "Minerais Met\u00e1licos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Minera\u00e7\u00e3o"
+    },
+    "VAMO": {
+        "segmento": "Aluguel de carros",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "VBBR": {
+        "segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "subsetor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis"
+    },
+    "VITT": {
+        "segmento": "Fertilizantes e Defensivos",
+        "setor": "Materiais B\u00e1sicos",
+        "subsetor": "Qu\u00edmicos"
+    },
+    "VIVA": {
+        "segmento": "Acess\u00f3rios",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "VIVR": {
+        "segmento": "Incorpora\u00e7\u00f5es",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Constru\u00e7\u00e3o Civil"
+    },
+    "VIVT": {
+        "segmento": "Telecomunica\u00e7\u00f5es",
+        "setor": "Comunica\u00e7\u00f5es",
+        "subsetor": "Telecomunica\u00e7\u00f5es"
+    },
+    "VLID": {
+        "segmento": "Servi\u00e7os Diversos",
+        "setor": "Bens Industriais",
+        "subsetor": "Servi\u00e7os Diversos"
+    },
+    "VSPT": {
+        "segmento": "Transporte Ferrovi\u00e1rio",
+        "setor": "Bens Industriais",
+        "subsetor": "Transporte"
+    },
+    "VSTE": {
+        "segmento": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Com\u00e9rcio Varejista"
+    },
+    "VULC": {
+        "segmento": "Cal\u00e7ados",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "VVEO": {
+        "segmento": "Medicamentos e Outros Produtos",
+        "setor": "Sa\u00fade",
+        "subsetor": "Com\u00e9rcio e Distribui\u00e7\u00e3o"
+    },
+    "WEGE": {
+        "segmento": "Motores, Compressores e Outros",
+        "setor": "Bens Industriais",
+        "subsetor": "M\u00e1quinas e Equipamentos"
+    },
+    "WEST": {
+        "segmento": "M\u00f3veis",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Utilidades Dom\u00e9sticas"
+    },
+    "WHRL": {
+        "segmento": "Eletrodom\u00e9sticos",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Utilidades Dom\u00e9sticas"
+    },
+    "WIZC": {
+        "segmento": "Corretoras de Seguros e Resseguros",
+        "setor": "Financeiro",
+        "subsetor": "Previd\u00eancia e Seguros"
+    },
+    "WLMM": {
+        "segmento": "Material de Transporte",
+        "setor": "Bens Industriais",
+        "subsetor": "Com\u00e9rcio"
+    },
+    "XPBR": {
+        "segmento": "Servi\u00e7os Financeiros Diversos",
+        "setor": "Financeiro",
+        "subsetor": "Servi\u00e7os Financeiros Diversos"
+    },
+    "YBRA": {
+        "segmento": "Outros",
+        "setor": "Outros",
+        "subsetor": "Outros"
+    },
+    "YDUQ": {
+        "segmento": "Servi\u00e7os Educacionais",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Diversos"
+    },
+    "ZAMP": {
+        "segmento": "Restaurante e Similares",
+        "setor": "Consumo C\u00edclico",
+        "subsetor": "Hoteis e Restaurantes"
+    }
+}
